@@ -1,4 +1,5 @@
-#Predicting the number of goals a player will make in an upcoming game, given current statistics
+# Aim
+Predicting the number of goals a player will make in an upcoming game, given current statistics.
 This is a basic prediction model built on a dataset of Premier League Football players. The aim is to use five different regression models to predict the number of goals a player scores, and evaluate their performance. The models tested are:
 1. Simple Linear Regression
 2. Polynomial Regression
@@ -6,10 +7,10 @@ This is a basic prediction model built on a dataset of Premier League Football p
 4. Decision Tree Regression
 5. Random Forest Regression
 
-##Dataset
+## Dataset
 The dataset is taken from Kaggle at:
 
-##Preprocessing:
+## Preprocessing:
 - Data is analysed externally
 - NaN values are handled using 'mode'
 - Required columns are encoded (Label Encoder)
