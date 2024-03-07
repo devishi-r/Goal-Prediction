@@ -1,4 +1,4 @@
-# Aim
+# Goal Prediction Model
 Predicting the number of goals a player will make in an upcoming game, given current statistics.
 This is a basic prediction model built on a dataset of Premier League Football players. The aim is to use five different regression models to predict the number of goals a player scores, and evaluate their performance. The models tested are:
 1. Simple Linear Regression
