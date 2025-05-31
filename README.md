@@ -17,4 +17,5 @@ The dataset is taken from Kaggle at:
 - Correlation matrix used to drop irrelevant columns
 
 ## Result:
-It is observed that of all implemented models, Randon Forest Regression had the best performance and highest accuracy.
+It is observed that of all implemented models, Random Forest Regression had the best performance and highest accuracy (99.03%).  
+This high performance can be attributed to the ensemble nature of the model, and it's ability to gauge non-linear, complex relations between attributes while being robust to outliers and less prone to the sensitivity issues like overfitting that can plague models like SVR or Decision Tree without extensive fine-tuning.
